@@ -1,2 +1,3 @@
 # Churn-Prediction-for-online-shopping-portal
-Primary data for user experience was collected and churn prediction analysis was conducted. Policies were devised to mitigate churn.
+Engineered a classification and segmentation framework leveraging behavioral and transactional data (161 entries, 40 features) collected via a custom-designed Google Forms survey. Spearheaded exploratory data analysis and feature engineering, optimized imbalanced datasets with RandomOverSampler, and implemented dimensionality reduction (LDA) to enhance model accuracy. Boosted churn class recall to 83% and achieved an AUC of 0.929 using Logistic Regression. Strategically segmented customers into three clusters with K-means based on satisfaction and complaints, and deployed RFM analysis (weights: 0.15/0.28/0.57) to classify customers into five actionable categories. Delivered data-driven retention strategies that empowered targeted decision-making and customer engagement
+
